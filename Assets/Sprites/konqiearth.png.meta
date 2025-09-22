@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: 7b014dbbd2db28f4ca557626eec122fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8807560543861786582
+    second: konqiearth_0
+  - first:
+      213: -4799449535209341062
+    second: konqiearth_1
+  - first:
+      213: 4305740133390245757
+    second: konqiearth_2
+  - first:
+      213: 7791502014377542956
+    second: konqiearth_3
+  - first:
+      213: 3725225773829389753
+    second: konqiearth_4
+  - first:
+      213: -8568549369634211488
+    second: konqiearth_5
+  - first:
+      213: -8237081291730086291
+    second: konqiearth_6
+  - first:
+      213: 2002517967230768225
+    second: konqiearth_7
+  - first:
+      213: 8943970629115217715
+    second: konqiearth_8
+  - first:
+      213: 3148840104275865827
+    second: konqiearth_9
+  - first:
+      213: 405141487863890785
+    second: konqiearth_10
+  - first:
+      213: -2478441894872326626
+    second: konqiearth_11
+  - first:
+      213: -3372155639541561488
+    second: konqiearth_12
+  - first:
+      213: 2199534853460611087
+    second: konqiearth_13
+  - first:
+      213: 1801181314546302734
+    second: konqiearth_14
+  - first:
+      213: -6326525251948123485
+    second: konqiearth_15
+  - first:
+      213: -8462511904703785261
+    second: konqiearth_16
+  - first:
+      213: 8467941526564694830
+    second: konqiearth_17
+  - first:
+      213: -5395244719437146594
+    second: konqiearth_18
+  - first:
+      213: -3363888653011217212
+    second: konqiearth_19
+  - first:
+      213: -529274683301364037
+    second: konqiearth_20
+  - first:
+      213: 2562544152595966230
+    second: konqiearth_21
+  - first:
+      213: 2102352249709203559
+    second: konqiearth_22
+  - first:
+      213: 5279079046559354712
+    second: konqiearth_23
+  - first:
+      213: 5115599896247527098
+    second: konqiearth_24
+  - first:
+      213: 6932491438092166928
+    second: konqiearth_25
+  - first:
+      213: 8042206103129259290
+    second: konqiearth_26
+  - first:
+      213: 6237792139543383805
+    second: konqiearth_27
+  - first:
+      213: 4315509806410677899
+    second: konqiearth_28
+  - first:
+      213: 5272788898612655040
+    second: konqiearth_29
+  - first:
+      213: -6169009003127743436
+    second: konqiearth_30
+  - first:
+      213: -81574483036815354
+    second: konqiearth_31
+  - first:
+      213: 6018212596321230897
+    second: konqiearth_32
+  - first:
+      213: 5025118292287107145
+    second: konqiearth_33
+  - first:
+      213: 292712487523360499
+    second: konqiearth_34
+  - first:
+      213: 4157055646540963718
+    second: konqiearth_35
+  - first:
+      213: 4672771554450845446
+    second: konqiearth_36
+  - first:
+      213: 2370215935081415876
+    second: konqiearth_37
+  - first:
+      213: 2539117327408272064
+    second: konqiearth_38
+  - first:
+      213: 5911705131444617296
+    second: konqiearth_39
+  - first:
+      213: -5625246728913199846
+    second: konqiearth_40
+  - first:
+      213: -5656007478310895705
+    second: konqiearth_41
+  - first:
+      213: 6708819682999274828
+    second: konqiearth_42
+  - first:
+      213: -2819557972285220135
+    second: konqiearth_43
+  - first:
+      213: 4088245782332888093
+    second: konqiearth_44
+  - first:
+      213: 6770963185085944914
+    second: konqiearth_45
+  - first:
+      213: 8069134366936244176
+    second: konqiearth_46
+  - first:
+      213: -9143469455954723130
+    second: konqiearth_47
+  - first:
+      213: 2070245943771692444
+    second: konqiearth_48
+  - first:
+      213: 8389252746149648768
+    second: konqiearth_49
+  - first:
+      213: 212585733528046708
+    second: konqiearth_50
+  - first:
+      213: 3659911787083283059
+    second: konqiearth_51
+  - first:
+      213: -212930329129506116
+    second: konqiearth_52
+  - first:
+      213: 1009836108619190404
+    second: konqiearth_53
+  - first:
+      213: -8953188936861623523
+    second: konqiearth_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: konqiearth_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a283f5d895245c580800000000000000
+      internalID: -8807560543861786582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 192
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ffe68831ee46db0800000000000000
+      internalID: -4799449535209341062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f5ed9a6df01cb30800000000000000
+      internalID: 4305740133390245757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25c6b90dc9f02c60800000000000000
+      internalID: 7791502014377542956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 192
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdfa3daa19a2b330800000000000000
+      internalID: 3725225773829389753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 192
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0693e861fb5661980800000000000000
+      internalID: -8568549369634211488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 192
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d669964053200bd80800000000000000
+      internalID: -8237081291730086291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 193
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164902d3b7f5acb10800000000000000
+      internalID: 2002517967230768225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 160
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33780f566ed5f1c70800000000000000
+      internalID: 8943970629115217715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 160
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0fddd346de2bb20800000000000000
+      internalID: 3148840104275865827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 160
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16386e3690a5f9500800000000000000
+      internalID: 405141487863890785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 160
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e50bb5a3eca9dd0800000000000000
+      internalID: -2478441894872326626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 162
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0778bc1ff42b331d0800000000000000
+      internalID: -3372155639541561488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 162
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f005c9bab41568e10800000000000000
+      internalID: 2199534853460611087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f7a9dccd41ff810800000000000000
+      internalID: 1801181314546302734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aae71f7dcaa338a0800000000000000
+      internalID: -6326525251948123485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6dd9c424e1f8a80800000000000000
+      internalID: -8462511904703785261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2beaad04fb248570800000000000000
+      internalID: 8467941526564694830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1695ad438d3025b0800000000000000
+      internalID: -5395244719437146594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c49c4db7111151d0800000000000000
+      internalID: -3363888653011217212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbef631da73a7a8f0800000000000000
+      internalID: -529274683301364037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619acb0745cff8320800000000000000
+      internalID: 2562544152595966230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76019ac7b3e0d2d10800000000000000
+      internalID: 2102352249709203559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fc06f4c6e034940800000000000000
+      internalID: 5279079046559354712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6ebd480034ef640800000000000000
+      internalID: 5115599896247527098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017abe7ab38253060800000000000000
+      internalID: 6932491438092166928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d7f7367d7ab9f60800000000000000
+      internalID: 8042206103129259290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe0534d6e6119650800000000000000
+      internalID: 6237792139543383805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eb2dbed45c3eb30800000000000000
+      internalID: 4315509806410677899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c33e6d1195bc2940800000000000000
+      internalID: 5272788898612655040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c52681ff6436aa0800000000000000
+      internalID: -6169009003127743436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600cadb90703edef0800000000000000
+      internalID: -81574483036815354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_32
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1302282787cf48350800000000000000
+      internalID: 6018212596321230897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 66
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940371e667eccb540800000000000000
+      internalID: 5025118292287107145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe9620e47cef0400800000000000000
+      internalID: 292712487523360499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_35
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 66
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f1b93e514d0b930800000000000000
+      internalID: 4157055646540963718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 67
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fa79ba8f409d040800000000000000
+      internalID: 4672771554450845446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 67
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c48f73c5d2b4e020800000000000000
+      internalID: 2370215935081415876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 67
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c29537a1c1cc3320800000000000000
+      internalID: 2539117327408272064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 66
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0504c98de789a0250800000000000000
+      internalID: 5911705131444617296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d533567eb1fe1b0800000000000000
+      internalID: -5625246728913199846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af73505a23d181b0800000000000000
+      internalID: -5656007478310895705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d0253f4f38a1d50800000000000000
+      internalID: 6708819682999274828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da915e76faeed8d0800000000000000
+      internalID: -2819557972285220135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 32
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14d07ae0ed5cb830800000000000000
+      internalID: 4088245782332888093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_45
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 32
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2549b4a842b47fd50800000000000000
+      internalID: 6770963185085944914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 32
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df912264f25bff60800000000000000
+      internalID: 8069134366936244176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_47
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 32
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce3f2759fedb1180800000000000000
+      internalID: -9143469455954723130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d743c97bdfabc10800000000000000
+      internalID: 2070245943771692444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0895839acec9c6470800000000000000
+      internalID: 8389252746149648768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c414b299143f200800000000000000
+      internalID: 212585733528046708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a3d5a116e9ac230800000000000000
+      internalID: 3659911787083283059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_52
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba245a6ef48b0df0800000000000000
+      internalID: -212930329129506116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_53
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4801c972798a30e00800000000000000
+      internalID: 1009836108619190404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiearth_54
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bd7631912efb380800000000000000
+      internalID: -8953188936861623523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1011829e48bdb674abcbbf3e11f05e1a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      konqiearth_0: -8807560543861786582
+      konqiearth_1: -4799449535209341062
+      konqiearth_10: 405141487863890785
+      konqiearth_11: -2478441894872326626
+      konqiearth_12: -3372155639541561488
+      konqiearth_13: 2199534853460611087
+      konqiearth_14: 1801181314546302734
+      konqiearth_15: -6326525251948123485
+      konqiearth_16: -8462511904703785261
+      konqiearth_17: 8467941526564694830
+      konqiearth_18: -5395244719437146594
+      konqiearth_19: -3363888653011217212
+      konqiearth_2: 4305740133390245757
+      konqiearth_20: -529274683301364037
+      konqiearth_21: 2562544152595966230
+      konqiearth_22: 2102352249709203559
+      konqiearth_23: 5279079046559354712
+      konqiearth_24: 5115599896247527098
+      konqiearth_25: 6932491438092166928
+      konqiearth_26: 8042206103129259290
+      konqiearth_27: 6237792139543383805
+      konqiearth_28: 4315509806410677899
+      konqiearth_29: 5272788898612655040
+      konqiearth_3: 7791502014377542956
+      konqiearth_30: -6169009003127743436
+      konqiearth_31: -81574483036815354
+      konqiearth_32: 6018212596321230897
+      konqiearth_33: 5025118292287107145
+      konqiearth_34: 292712487523360499
+      konqiearth_35: 4157055646540963718
+      konqiearth_36: 4672771554450845446
+      konqiearth_37: 2370215935081415876
+      konqiearth_38: 2539117327408272064
+      konqiearth_39: 5911705131444617296
+      konqiearth_4: 3725225773829389753
+      konqiearth_40: -5625246728913199846
+      konqiearth_41: -5656007478310895705
+      konqiearth_42: 6708819682999274828
+      konqiearth_43: -2819557972285220135
+      konqiearth_44: 4088245782332888093
+      konqiearth_45: 6770963185085944914
+      konqiearth_46: 8069134366936244176
+      konqiearth_47: -9143469455954723130
+      konqiearth_48: 2070245943771692444
+      konqiearth_49: 8389252746149648768
+      konqiearth_5: -8568549369634211488
+      konqiearth_50: 212585733528046708
+      konqiearth_51: 3659911787083283059
+      konqiearth_52: -212930329129506116
+      konqiearth_53: 1009836108619190404
+      konqiearth_54: -8953188936861623523
+      konqiearth_6: -8237081291730086291
+      konqiearth_7: 2002517967230768225
+      konqiearth_8: 8943970629115217715
+      konqiearth_9: 3148840104275865827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

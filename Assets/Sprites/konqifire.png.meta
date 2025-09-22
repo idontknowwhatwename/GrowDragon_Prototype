@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 75d2e22054a0a7248a4ec74b87850805
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6092335350679620303
+    second: konqifire_0
+  - first:
+      213: 5258232871065269639
+    second: konqifire_1
+  - first:
+      213: -5597959775331445763
+    second: konqifire_2
+  - first:
+      213: -6713189473114083084
+    second: konqifire_3
+  - first:
+      213: -8165222158400779887
+    second: konqifire_4
+  - first:
+      213: 8880132943426738534
+    second: konqifire_5
+  - first:
+      213: -1083827067050679069
+    second: konqifire_6
+  - first:
+      213: 878816754330336063
+    second: konqifire_7
+  - first:
+      213: -316739535031335366
+    second: konqifire_8
+  - first:
+      213: 6979487924353472607
+    second: konqifire_9
+  - first:
+      213: -112485926299708582
+    second: konqifire_10
+  - first:
+      213: -3931959609921786048
+    second: konqifire_11
+  - first:
+      213: 7531822362721260621
+    second: konqifire_12
+  - first:
+      213: 2445289557313972338
+    second: konqifire_13
+  - first:
+      213: -1824376561938029683
+    second: konqifire_14
+  - first:
+      213: -8446806861263203955
+    second: konqifire_15
+  - first:
+      213: -1440911689142803865
+    second: konqifire_16
+  - first:
+      213: -2596753271737572539
+    second: konqifire_17
+  - first:
+      213: -5763935773640025405
+    second: konqifire_18
+  - first:
+      213: -5603353755484259531
+    second: konqifire_19
+  - first:
+      213: -5052766050833315389
+    second: konqifire_20
+  - first:
+      213: -6896562978346224493
+    second: konqifire_21
+  - first:
+      213: 2746987344618341406
+    second: konqifire_22
+  - first:
+      213: 1775796907785039599
+    second: konqifire_23
+  - first:
+      213: 8587257436250382263
+    second: konqifire_24
+  - first:
+      213: -4844176667481112656
+    second: konqifire_25
+  - first:
+      213: 6066779667434108864
+    second: konqifire_26
+  - first:
+      213: 8680869900621929490
+    second: konqifire_27
+  - first:
+      213: 4143844413735685427
+    second: konqifire_28
+  - first:
+      213: -6963090851601913010
+    second: konqifire_29
+  - first:
+      213: -4244708902394595151
+    second: konqifire_30
+  - first:
+      213: -2939062221521409710
+    second: konqifire_31
+  - first:
+      213: -7024986263494588323
+    second: konqifire_32
+  - first:
+      213: -841377093264820367
+    second: konqifire_33
+  - first:
+      213: 7067783445027556393
+    second: konqifire_34
+  - first:
+      213: 6776766474115465696
+    second: konqifire_35
+  - first:
+      213: -6804933130964464632
+    second: konqifire_36
+  - first:
+      213: -9181944279799033889
+    second: konqifire_37
+  - first:
+      213: 3234934151671446672
+    second: konqifire_38
+  - first:
+      213: 7200254619114675691
+    second: konqifire_39
+  - first:
+      213: 6369132941997239758
+    second: konqifire_40
+  - first:
+      213: 7046192343893160008
+    second: konqifire_41
+  - first:
+      213: 3347603511882381789
+    second: konqifire_42
+  - first:
+      213: -888795502105493625
+    second: konqifire_43
+  - first:
+      213: 2639614361339664135
+    second: konqifire_44
+  - first:
+      213: 599882322667372542
+    second: konqifire_45
+  - first:
+      213: 288572039627295999
+    second: konqifire_46
+  - first:
+      213: -1043521164677939382
+    second: konqifire_47
+  - first:
+      213: 2494046837460557638
+    second: konqifire_48
+  - first:
+      213: -548206691646834605
+    second: konqifire_49
+  - first:
+      213: -1176302642285727009
+    second: konqifire_50
+  - first:
+      213: 1007313117779316694
+    second: konqifire_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: konqifire_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135bf22f64da37ba0800000000000000
+      internalID: -6092335350679620303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 192
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785b02adfeef8f840800000000000000
+      internalID: 5258232871065269639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3917c5e3d0052b0800000000000000
+      internalID: -5597959775331445763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0b4210eb5f5d2a0800000000000000
+      internalID: -6713189473114083084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 192
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1998f5845bd4fae80800000000000000
+      internalID: -8165222158400779887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 192
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669d133fcd19c3b70800000000000000
+      internalID: 8880132943426738534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 192
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4ad7e560975f0f0800000000000000
+      internalID: -1083827067050679069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 193
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b75809e2f223c00800000000000000
+      internalID: 878816754330336063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3682203217ba9bf0800000000000000
+      internalID: -316739535031335366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 160
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58973dc94f1cd060800000000000000
+      internalID: 6979487924353472607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 160
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53dca065ae507ef0800000000000000
+      internalID: -112485926299708582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fad63319fde69c0800000000000000
+      internalID: -3931959609921786048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 162
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4418599888668860800000000000000
+      internalID: 7531822362721260621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 162
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278ebac85e96fe120800000000000000
+      internalID: 2445289557313972338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83a221de238ea6e0800000000000000
+      internalID: -1824376561938029683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81131ca9e9e6ca80800000000000000
+      internalID: -8446806861263203955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7626fe7f37ad00ce0800000000000000
+      internalID: -1440911689142803865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543afb458aa76fbd0800000000000000
+      internalID: -2596753271737572539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca1508d3f26200b0800000000000000
+      internalID: -5763935773640025405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b728d7273ec32b0800000000000000
+      internalID: -5603353755484259531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c94de62c08f0e9b0800000000000000
+      internalID: -5052766050833315389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3943090c28c7a40a0800000000000000
+      internalID: -6896562978346224493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14487e8f624f1620800000000000000
+      internalID: 2746987344618341406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feea3c901e5e4a810800000000000000
+      internalID: 1775796907785039599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf198a14211c2770800000000000000
+      internalID: 8587257436250382263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf7d898cf606ccb0800000000000000
+      internalID: -4844176667481112656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7f8ffd6f7813450800000000000000
+      internalID: 6066779667434108864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c53ff6e25a87870800000000000000
+      internalID: 8680869900621929490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dc33d0a84e18930800000000000000
+      internalID: 4143844413735685427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bee7333c12e5f90800000000000000
+      internalID: -6963090851601913010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8f4d12eb3c715c0800000000000000
+      internalID: -4244708902394595151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25922793b7a5637d0800000000000000
+      internalID: -2939062221521409710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_32
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 64
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58086c963c328e90800000000000000
+      internalID: -7024986263494588323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 66
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177bcc1ddf3d254f0800000000000000
+      internalID: -841377093264820367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_34
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 64
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c0146b89fc51260800000000000000
+      internalID: 7067783445027556393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 66
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1cd6f0439eb0e50800000000000000
+      internalID: 6776766474115465696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 67
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c83981f550091a0800000000000000
+      internalID: -6804933130964464632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 67
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf0627535e239080800000000000000
+      internalID: -9181944279799033889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 67
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cf726b87bc4ec20800000000000000
+      internalID: 3234934151671446672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 66
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed12b07d617ce360800000000000000
+      internalID: 7200254619114675691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdebf66aa4b36850800000000000000
+      internalID: 6369132941997239758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84034dcba9a19c160800000000000000
+      internalID: 7046192343893160008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9799e58a3157e20800000000000000
+      internalID: 3347603511882381789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f790b233d5aa3f0800000000000000
+      internalID: -888795502105493625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 32
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7079bafb64bc1a420800000000000000
+      internalID: 2639614361339664135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 32
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effff9d4bc5335800800000000000000
+      internalID: 599882322667372542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_46
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 32
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc481abdb6310400800000000000000
+      internalID: 288572039627295999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_47
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 32
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ff4cf870ba481f0800000000000000
+      internalID: -1043521164677939382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fd5087262ac9220800000000000000
+      internalID: 2494046837460557638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358f5e02be06468f0800000000000000
+      internalID: -548206691646834605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_50
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2b43aaafeecafe0800000000000000
+      internalID: -1176302642285727009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqifire_51
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfc3d291f1bafd00800000000000000
+      internalID: 1007313117779316694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f66b8f165fdee3249945a199a8199e9b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      konqifire_0: -6092335350679620303
+      konqifire_1: 5258232871065269639
+      konqifire_10: -112485926299708582
+      konqifire_11: -3931959609921786048
+      konqifire_12: 7531822362721260621
+      konqifire_13: 2445289557313972338
+      konqifire_14: -1824376561938029683
+      konqifire_15: -8446806861263203955
+      konqifire_16: -1440911689142803865
+      konqifire_17: -2596753271737572539
+      konqifire_18: -5763935773640025405
+      konqifire_19: -5603353755484259531
+      konqifire_2: -5597959775331445763
+      konqifire_20: -5052766050833315389
+      konqifire_21: -6896562978346224493
+      konqifire_22: 2746987344618341406
+      konqifire_23: 1775796907785039599
+      konqifire_24: 8587257436250382263
+      konqifire_25: -4844176667481112656
+      konqifire_26: 6066779667434108864
+      konqifire_27: 8680869900621929490
+      konqifire_28: 4143844413735685427
+      konqifire_29: -6963090851601913010
+      konqifire_3: -6713189473114083084
+      konqifire_30: -4244708902394595151
+      konqifire_31: -2939062221521409710
+      konqifire_32: -7024986263494588323
+      konqifire_33: -841377093264820367
+      konqifire_34: 7067783445027556393
+      konqifire_35: 6776766474115465696
+      konqifire_36: -6804933130964464632
+      konqifire_37: -9181944279799033889
+      konqifire_38: 3234934151671446672
+      konqifire_39: 7200254619114675691
+      konqifire_4: -8165222158400779887
+      konqifire_40: 6369132941997239758
+      konqifire_41: 7046192343893160008
+      konqifire_42: 3347603511882381789
+      konqifire_43: -888795502105493625
+      konqifire_44: 2639614361339664135
+      konqifire_45: 599882322667372542
+      konqifire_46: 288572039627295999
+      konqifire_47: -1043521164677939382
+      konqifire_48: 2494046837460557638
+      konqifire_49: -548206691646834605
+      konqifire_5: 8880132943426738534
+      konqifire_50: -1176302642285727009
+      konqifire_51: 1007313117779316694
+      konqifire_6: -1083827067050679069
+      konqifire_7: 878816754330336063
+      konqifire_8: -316739535031335366
+      konqifire_9: 6979487924353472607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

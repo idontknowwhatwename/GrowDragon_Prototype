@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: c33b4a861eefc0f478dc1a72733bdf48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7380670565589790538
+    second: konqiair_0
+  - first:
+      213: 5799379249635732793
+    second: konqiair_1
+  - first:
+      213: -7785765841661902529
+    second: konqiair_2
+  - first:
+      213: -2966428084243483314
+    second: konqiair_3
+  - first:
+      213: -6297516212871866383
+    second: konqiair_4
+  - first:
+      213: -432464422182373935
+    second: konqiair_5
+  - first:
+      213: -3370586224624654696
+    second: konqiair_6
+  - first:
+      213: 6746232071371644302
+    second: konqiair_7
+  - first:
+      213: 7510878670145827504
+    second: konqiair_8
+  - first:
+      213: -3132732888012616525
+    second: konqiair_9
+  - first:
+      213: 7816680584952565908
+    second: konqiair_10
+  - first:
+      213: -6928598818125637138
+    second: konqiair_11
+  - first:
+      213: -8559201285919533989
+    second: konqiair_12
+  - first:
+      213: 1205086905671483076
+    second: konqiair_13
+  - first:
+      213: -4319207365812611536
+    second: konqiair_14
+  - first:
+      213: 8350799630902793851
+    second: konqiair_15
+  - first:
+      213: -1869064384144256403
+    second: konqiair_16
+  - first:
+      213: -868799602037309912
+    second: konqiair_17
+  - first:
+      213: 124710756650109425
+    second: konqiair_18
+  - first:
+      213: 425050568973886301
+    second: konqiair_19
+  - first:
+      213: 8627911027642851259
+    second: konqiair_20
+  - first:
+      213: -8845749594608261593
+    second: konqiair_21
+  - first:
+      213: 6505902103395609979
+    second: konqiair_22
+  - first:
+      213: -4987808181656997507
+    second: konqiair_23
+  - first:
+      213: -143085720394819870
+    second: konqiair_24
+  - first:
+      213: 8546063524571401514
+    second: konqiair_25
+  - first:
+      213: 8214477696943547981
+    second: konqiair_26
+  - first:
+      213: -3534865172601327917
+    second: konqiair_27
+  - first:
+      213: 4544533164135179399
+    second: konqiair_28
+  - first:
+      213: 5759169079874598318
+    second: konqiair_29
+  - first:
+      213: 7792922238225233558
+    second: konqiair_30
+  - first:
+      213: 1238587099554045784
+    second: konqiair_31
+  - first:
+      213: -8097232104754888073
+    second: konqiair_32
+  - first:
+      213: 4432499316022999759
+    second: konqiair_33
+  - first:
+      213: 6246940999018586688
+    second: konqiair_34
+  - first:
+      213: 7024553182899814829
+    second: konqiair_35
+  - first:
+      213: 7050864847695703569
+    second: konqiair_36
+  - first:
+      213: -2812962318000356998
+    second: konqiair_37
+  - first:
+      213: 894331375008564088
+    second: konqiair_38
+  - first:
+      213: 8729587621484864240
+    second: konqiair_39
+  - first:
+      213: 3695596145313200950
+    second: konqiair_40
+  - first:
+      213: 8222591459982079338
+    second: konqiair_41
+  - first:
+      213: -2206396135347100543
+    second: konqiair_42
+  - first:
+      213: -7803936174481996815
+    second: konqiair_43
+  - first:
+      213: 19887402143181446
+    second: konqiair_44
+  - first:
+      213: -3755654808449509388
+    second: konqiair_45
+  - first:
+      213: -5365909077025075195
+    second: konqiair_46
+  - first:
+      213: 8637459612871464763
+    second: konqiair_47
+  - first:
+      213: 4314685616913910927
+    second: konqiair_48
+  - first:
+      213: 5494966780959500577
+    second: konqiair_49
+  - first:
+      213: -6574605087244110203
+    second: konqiair_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: konqiair_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0d6dd9937929990800000000000000
+      internalID: -7380670565589790538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 192
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d2f4c73b88b7050800000000000000
+      internalID: 5799379249635732793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f314f5fb73763f390800000000000000
+      internalID: -7785765841661902529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45bceacf5125d6d0800000000000000
+      internalID: -2966428084243483314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 192
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7528cbe5aba98a0800000000000000
+      internalID: -6297516212871866383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 192
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d533d936e39ff9f0800000000000000
+      internalID: -432464422182373935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 192
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8962c64dfa54931d0800000000000000
+      internalID: -3370586224624654696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 193
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d547a635e6f9d50800000000000000
+      internalID: 6746232071371644302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 160
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2b91d2b500c3860800000000000000
+      internalID: 7510878670145827504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 160
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc03d9490c4684d0800000000000000
+      internalID: -3132732888012616525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 160
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4905ac4d39d6a7c60800000000000000
+      internalID: 7816680584952565908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 160
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee91e6e851ca8df90800000000000000
+      internalID: -6928598818125637138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 162
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5413bf67cb973980800000000000000
+      internalID: -8559201285919533989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 162
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cef508e72459b010800000000000000
+      internalID: 1205086905671483076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0361d71f8c71f04c0800000000000000
+      internalID: -4319207365812611536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b769c66150004e370800000000000000
+      internalID: 8350799630902793851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d625fb868dfbf06e0800000000000000
+      internalID: -1869064384144256403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82eb0937d5761f3f0800000000000000
+      internalID: -868799602037309912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9cccdb5cf0bb100800000000000000
+      internalID: 124710756650109425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53244f8d3516e500800000000000000
+      internalID: 425050568973886301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfd354fd5f7cb770800000000000000
+      internalID: 8627911027642851259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726a1594c959d3580800000000000000
+      internalID: -8845749594608261593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dac584e7b994a50800000000000000
+      internalID: 6505902103395609979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d713c84a2eeb7cab0800000000000000
+      internalID: -4987808181656997507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e69f6f9b48a30ef0800000000000000
+      internalID: -143085720394819870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d40022f77b99670800000000000000
+      internalID: 8546063524571401514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4660b571ffaff170800000000000000
+      internalID: 8214477696943547981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dea232aad2a1fec0800000000000000
+      internalID: -3534865172601327917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7846246b5dc611f30800000000000000
+      internalID: 4544533164135179399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5b657c3cdacef40800000000000000
+      internalID: 5759169079874598318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69638abac75062c60800000000000000
+      internalID: 7792922238225233558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fdc4c9768503110800000000000000
+      internalID: 1238587099554045784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 67
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772423c3d4ad0af80800000000000000
+      internalID: -8097232104754888073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 67
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca76beb4a6638d30800000000000000
+      internalID: 4432499316022999759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042a35badb791b650800000000000000
+      internalID: 6246940999018586688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_35
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 67
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da14594f6e93c7160800000000000000
+      internalID: 7024553182899814829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_36
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 67
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ee03ec834b9d160800000000000000
+      internalID: 7050864847695703569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 67
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71870deca956f8d0800000000000000
+      internalID: -2812962318000356998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_38
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 66
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8734fdea5ad496c00800000000000000
+      internalID: 894331375008564088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2a04eb0b9b52970800000000000000
+      internalID: 8729587621484864240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b32b23d15694330800000000000000
+      internalID: 3695596145313200950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6574612e538c1270800000000000000
+      internalID: 8222591459982079338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18467d6a76e4161e0800000000000000
+      internalID: -2206396135347100543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_43
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 32
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f30e267569d2b390800000000000000
+      internalID: -7803936174481996815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_44
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 32
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68aef34ac77a64000800000000000000
+      internalID: 19887402143181446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 32
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7116b99db31ebc0800000000000000
+      internalID: -3755654808449509388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_46
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 32
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50050eecf167885b0800000000000000
+      internalID: -5365909077025075195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b379cf231cb6ed770800000000000000
+      internalID: 8637459612871464763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_48
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c04a955b7d0eb30800000000000000
+      internalID: 4314685616913910927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_49
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 19
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129a9a77c2b024c40800000000000000
+      internalID: 5494966780959500577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: konqiair_50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 9
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586b654c18f42c4a0800000000000000
+      internalID: -6574605087244110203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2114f0171a20f0241a04e329179487a4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      konqiair_0: -7380670565589790538
+      konqiair_1: 5799379249635732793
+      konqiair_10: 7816680584952565908
+      konqiair_11: -6928598818125637138
+      konqiair_12: -8559201285919533989
+      konqiair_13: 1205086905671483076
+      konqiair_14: -4319207365812611536
+      konqiair_15: 8350799630902793851
+      konqiair_16: -1869064384144256403
+      konqiair_17: -868799602037309912
+      konqiair_18: 124710756650109425
+      konqiair_19: 425050568973886301
+      konqiair_2: -7785765841661902529
+      konqiair_20: 8627911027642851259
+      konqiair_21: -8845749594608261593
+      konqiair_22: 6505902103395609979
+      konqiair_23: -4987808181656997507
+      konqiair_24: -143085720394819870
+      konqiair_25: 8546063524571401514
+      konqiair_26: 8214477696943547981
+      konqiair_27: -3534865172601327917
+      konqiair_28: 4544533164135179399
+      konqiair_29: 5759169079874598318
+      konqiair_3: -2966428084243483314
+      konqiair_30: 7792922238225233558
+      konqiair_31: 1238587099554045784
+      konqiair_32: -8097232104754888073
+      konqiair_33: 4432499316022999759
+      konqiair_34: 6246940999018586688
+      konqiair_35: 7024553182899814829
+      konqiair_36: 7050864847695703569
+      konqiair_37: -2812962318000356998
+      konqiair_38: 894331375008564088
+      konqiair_39: 8729587621484864240
+      konqiair_4: -6297516212871866383
+      konqiair_40: 3695596145313200950
+      konqiair_41: 8222591459982079338
+      konqiair_42: -2206396135347100543
+      konqiair_43: -7803936174481996815
+      konqiair_44: 19887402143181446
+      konqiair_45: -3755654808449509388
+      konqiair_46: -5365909077025075195
+      konqiair_47: 8637459612871464763
+      konqiair_48: 4314685616913910927
+      konqiair_49: 5494966780959500577
+      konqiair_5: -432464422182373935
+      konqiair_50: -6574605087244110203
+      konqiair_6: -3370586224624654696
+      konqiair_7: 6746232071371644302
+      konqiair_8: 7510878670145827504
+      konqiair_9: -3132732888012616525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
