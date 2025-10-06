@@ -4,9 +4,11 @@ using System.Collections;
 public class ShopManager : MonoBehaviour
 {
 
+
+
     // 상점 이동 속도
     [SerializeField] private float moveSpeed = 2500f;
-    
+
     [SerializeField] private GameObject ShopScreen; // 상점 스크린 오브젝트
     [SerializeField] private GameObject ScrollView; // 상점 스크롤뷰 오브젝트
 
@@ -80,6 +82,7 @@ public class ShopManager : MonoBehaviour
         ButtonsImage[currentButtonIndex].color = new Color32(255, 255, 255, 255); // 흰색
 
         // ShopCategoryManager 스크립트로 스크롤뷰 내용 변경 요청 (츄가할 예정)
+        ShopCategoryManager.instance.ShowCategory(index);
 
     }
 
@@ -107,7 +110,7 @@ public class ShopManager : MonoBehaviour
 
             // 2) Scroll View 이동 (스크린과 동일)
             Vector2 scrollViewCurrent = scrollViewRect.anchoredPosition;
-            Vector2 scrollViewNext = Vector2.MoveTowards(scrollViewCurrent, new Vector2(screenCurrent.x, screenNScrollTargetY), moveSpeed * Time.deltaTime);
+            Vector2 scrollViewNext = Vector2.MoveTowards(scrollViewCurrent, new Vector2(scrollViewCurrent.x, screenNScrollTargetY), moveSpeed * Time.deltaTime);
             scrollViewRect.anchoredPosition = scrollViewNext;
 
             if (Mathf.Abs(scrollViewRect.anchoredPosition.y - screenNScrollTargetY) > 0.01f)
@@ -115,15 +118,15 @@ public class ShopManager : MonoBehaviour
 
 
             // 3) 버튼들 이동
-            for (int i = 0; i < buttons.Length; i++)
+            foreach (var b in buttons)
             {
-                RectTransform buttonRect = buttons[i];
+                RectTransform buttonRect = b;
                 Vector2 buttonCurrent = buttonRect.anchoredPosition;
                 Vector2 buttonNext = Vector2.MoveTowards(buttonCurrent, new Vector2(buttonCurrent.x, buttonTargetY), moveSpeed * Time.deltaTime);
                 buttonRect.anchoredPosition = buttonNext;
 
                 // 목표 위치에 거의 도달하지 않았으면 계속 이동
-                if (Vector2.Distance(buttonRect.anchoredPosition, new Vector2(buttonCurrent.x, buttonTargetY)) > 0.01f)
+                if (Mathf.Abs(buttonRect.anchoredPosition.y - buttonTargetY) > 0.01f)
                     moving = true;
             }
 
@@ -133,8 +136,8 @@ public class ShopManager : MonoBehaviour
         // 마지막 보정
         shopScreenRect.anchoredPosition = new Vector2(shopScreenRect.anchoredPosition.x, screenNScrollTargetY);
         scrollViewRect.anchoredPosition = new Vector2(scrollViewRect.anchoredPosition.x, screenNScrollTargetY);
-        for (int i = 0; i < buttons.Length; i++)
-            buttons[i].anchoredPosition = new Vector2(buttons[i].anchoredPosition.x, buttonTargetY);
+        foreach (var b in buttons)
+            b.anchoredPosition = new Vector2(b.anchoredPosition.x, buttonTargetY);
 
     }
 
